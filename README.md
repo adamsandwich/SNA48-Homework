@@ -4,5 +4,9 @@
     1. Use Case Text
     2. Gantt Chart
     3. Entity Relationship Diagram
-- Fundamentals of Compiling
-    1. 
+- Artificial Intelligence
+    1. P26 1 2
+    2. P63 1 2 8 9 
+## week 5
+- Computer Networking
+    1. Lab Report
